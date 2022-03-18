@@ -1,6 +1,6 @@
 # Tags and Dockerfile link
 
-- [`7.79.1`, `7.79`, `7`, `latest` *(7.79.1/Dockerfile)*](https://github.com/nbrownuk/docker-curl/blob/master/Dockerfile)
+- [`7.80.0`, `7.80`, `7`, `latest` *(7.80.0/Dockerfile)*](https://github.com/nbrownuk/docker-curl/blob/master/Dockerfile)
 
 # What is this image?
 
